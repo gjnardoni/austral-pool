@@ -5,7 +5,7 @@
     "author": "Matthew Little",
     "repository": {
         "type": "git",
-        "url": "https://github.com/fancoder/cryptonote-universal-pool.git"
+        "url": "https://github.com/gjnardoni/austral-pool.git"
     },
     "dependencies": {
         "bignum": "*",
@@ -15,7 +15,7 @@
         "dateformat": "*",
         "base58-native": "*",
         "multi-hashing": "git://github.com/fancoder/node-multi-hashing.git",
-        "cryptonote-util": "git://github.com/fancoder/node-cryptonote-util.git"
+        "cryptonote-util": "https://github.com/gjnardoni/austral-pool-util.git"
     },
     "engines": {
         "node": ">=0.10"
