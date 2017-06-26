@@ -1,8 +1,8 @@
 {
-    "coin": "ducknote",
-    "symbol": "XDN",
+    "coin": "austral",
+    "symbol": "AUC",
     "coinUnits": 100000000,
-    "coinDifficultyTarget": 240,
+    "coinDifficultyTarget": 360,
 
     "logging": {
         "files": {
@@ -19,7 +19,7 @@
     "poolServer": {
         "enabled": true,
         "clusterForks": "auto",
-        "poolAddress": "ddehi53dwGSBEXdhTYtga2R3fS4y9hRz4YHAsLABJpH75yUd5EDQmuL3yDBj1mG6MMeDfydY9vp4zFVVNQ99FTYq2PpsFJP2y",
+        "poolAddress": "1V3hNLPet63MyaBAe9pMJ3BwpkMCKz1S8CfHAa4DCk2ShY8DNSGAp8u2yw6wWUuX4cEWA51srxdsnGmaadDHUE4KNfsHNMF",
         "blockRefreshInterval": 1000,
         "minerTimeout": 900,
         "ports": [
@@ -100,17 +100,17 @@
         "port": 8117,
         "blocks": 30,
         "payments": 30,
-        "password": "your_password"
+        "password": "Zchacker1325!?"
     },
 
     "daemon": {
         "host": "127.0.0.1",
-        "port": 42081
+        "port": 51810
     },
 
     "wallet": {
         "host": "127.0.0.1",
-        "port": 8082
+        "port": 21812
     },
 
     "redis": {
